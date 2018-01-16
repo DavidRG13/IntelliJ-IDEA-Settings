@@ -4,6 +4,7 @@
       <mapping pattern="vla" type="PLAIN_TEXT" />
       <mapping pattern="registeredServiceTemplate" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping ext="pbd" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="extensionmodule" type="PLAIN_TEXT" />
     </extensionMap>
