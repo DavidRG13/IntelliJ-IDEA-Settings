@@ -5,9 +5,12 @@
       <mapping pattern="registeredServiceTemplate" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping ext="pbd" type="PLAIN_TEXT" />
+      <mapping ext="ca" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="extensionmodule" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
