@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://int-api-sonarqube.cxp.williamhill.plc/" />
+          <token>df9ddf92dfcbdf9fdfcbdf99dfcedf93df9edfc9df99dfc8df9edf9bdf9ddfcedf9ddf92df93df93dfcfdf93df99df98dfcfdf98df9edfccdfccdfc9dfcfdfc8df9cdf98df99df99df9fdf98dfcbdfcf</token>
+          <option name="name" value="CXP sonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
