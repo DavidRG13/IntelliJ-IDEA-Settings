@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="vla" type="PLAIN_TEXT" />
       <mapping pattern="registeredServiceTemplate" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="pbd" type="PLAIN_TEXT" />
