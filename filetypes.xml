@@ -11,6 +11,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="extensionmodule" type="PLAIN_TEXT" />
+      <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
