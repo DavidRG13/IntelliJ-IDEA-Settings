@@ -13,5 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
     <mask>*.groovy</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
