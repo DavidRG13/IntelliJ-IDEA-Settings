@@ -122,6 +122,10 @@
           <option name="url" value="git@git.nonprod.williamhill.plc:CS-Development/session-listener-poc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.nonprod.williamhill.plc:spring-boot-starters/wh-cas-spring-boot-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev" />
