@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="perf" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="pepe" type="PLAIN_TEXT" />
-      <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
+      <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
