@@ -146,6 +146,14 @@
           <option name="url" value="git@git.nonprod.williamhill.plc:scoreboards/bet-suggestion-engine.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://DavidRodGon@bitbucket.org/DavidRodGon/videorental.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="DavidRodGon" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev" />
