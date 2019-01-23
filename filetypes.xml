@@ -3,16 +3,15 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="perf" type="PLAIN_TEXT" />
-      <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
       <mapping pattern="pepe" type="PLAIN_TEXT" />
+      <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
       <mapping pattern="event1" type="PLAIN_TEXT" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="image-id" type="PLAIN_TEXT" />
-      <mapping ext="jh" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
+      <mapping ext="jh" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="adoc" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
