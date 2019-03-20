@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'streaming-authorization-service'" />
+    <option name="defaultScopeName" value="Project 'streaming-authorization-service'" />
+    <option name="SEARCH_SCOPE" value="Project 'streaming-authorization-service'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
