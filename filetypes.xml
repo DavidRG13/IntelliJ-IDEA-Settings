@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="perf" type="PLAIN_TEXT" />
+      <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern="pepe" type="PLAIN_TEXT" />
       <mapping pattern="event1" type="PLAIN_TEXT" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
