@@ -186,6 +186,10 @@
           <option name="url" value="git@git.nonprod.williamhill.plc:international/sogei-psqf-common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.nonprod.williamhill.plc:international/sogei_psqf_integration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/international" />
