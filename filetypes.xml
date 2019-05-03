@@ -5,6 +5,7 @@
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern="pepe" type="PLAIN_TEXT" />
       <mapping pattern="post_release" type="PLAIN_TEXT" />
+      <mapping pattern="releaseFinish" type="PLAIN_TEXT" />
       <mapping pattern="perf" type="PLAIN_TEXT" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping pattern="event1" type="PLAIN_TEXT" />
