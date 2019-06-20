@@ -1,21 +1,27 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
-      <mapping pattern="mvnw" type="PLAIN_TEXT" />
-      <mapping pattern="pepe" type="PLAIN_TEXT" />
+      <mapping pattern="perf" type="PLAIN_TEXT" />
       <mapping pattern="post_release" type="PLAIN_TEXT" />
       <mapping pattern="releaseFinish" type="PLAIN_TEXT" />
-      <mapping pattern="perf" type="PLAIN_TEXT" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping pattern="event1" type="PLAIN_TEXT" />
+      <mapping pattern="pepe" type="PLAIN_TEXT" />
+      <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
+      <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="image-id" type="PLAIN_TEXT" />
       <mapping ext="jh" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="adoc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
