@@ -206,6 +206,10 @@
           <option name="url" value="git@git.nonprod.williamhill.plc:scoreboards/live-sports-data-model.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.nonprod.williamhill.plc:scoreboards/live-sports-data-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev" />
