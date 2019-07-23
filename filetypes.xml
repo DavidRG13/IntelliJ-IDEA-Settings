@@ -13,6 +13,7 @@
       <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="image-id" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
