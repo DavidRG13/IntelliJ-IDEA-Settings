@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="perf" type="PLAIN_TEXT" />
-      <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
       <mapping pattern="post_release" type="PLAIN_TEXT" />
@@ -11,6 +10,7 @@
       <mapping pattern="event1" type="PLAIN_TEXT" />
       <mapping pattern="buildtest" type="PLAIN_TEXT" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
