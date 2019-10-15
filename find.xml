@@ -20,7 +20,8 @@
     <mask>*.js</mask>
     <mask>*.tsx</mask>
     <mask>*.styl</mask>
-    <mask>*.coffee</mask>
     <mask>index.tsx</mask>
+    <mask>!*.js</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
