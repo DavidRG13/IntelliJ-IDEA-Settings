@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -12,7 +13,6 @@
     <mask>*.properties</mask>
     <mask>*.groovy</mask>
     <mask>*.yml</mask>
-    <mask>!*.java</mask>
     <mask>*.java</mask>
     <mask>*.conf</mask>
     <mask>*.scala</mask>
@@ -23,5 +23,6 @@
     <mask>index.tsx</mask>
     <mask>!*.js</mask>
     <mask>*.coffee</mask>
+    <mask>!*.java</mask>
   </component>
 </application>
