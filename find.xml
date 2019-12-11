@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -26,9 +26,9 @@
     <mask>!*.patch</mask>
     <mask>*.java</mask>
     <mask>*.coffee</mask>
-    <mask>*.styl</mask>
     <mask>*.ts</mask>
     <mask>!*.java</mask>
     <mask>*.tsx</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
