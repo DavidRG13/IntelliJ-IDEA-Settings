@@ -250,6 +250,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Vcs.CopyRevisionNumberAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581005667106" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Vcs.Force.Push">
           <value>
             <ActionSummary>
