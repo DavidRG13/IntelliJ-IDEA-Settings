@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Delete">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581018785130" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$Undo">
           <value>
             <ActionSummary>
@@ -14,6 +22,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581001985767" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ChangesView.Refresh">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581019263418" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
@@ -69,8 +85,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581009006833" />
-              <option name="times" value="36" />
+              <option name="last" value="1581018916383" />
+              <option name="times" value="37" />
             </ActionSummary>
           </value>
         </entry>
@@ -210,6 +226,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581019671637" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
@@ -229,8 +253,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581001980008" />
-              <option name="times" value="2" />
+              <option name="last" value="1581019663718" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -279,6 +303,22 @@
             <ActionSummary>
               <option name="last" value="1581003100785" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581018762095" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.browsers.actions.OpenFileInDefaultBrowserAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581019605527" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
