@@ -301,8 +301,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581153066516" />
-              <option name="times" value="2" />
+              <option name="last" value="1581154168903" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -389,8 +389,8 @@
         <entry key="ParameterInfo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581068348500" />
-              <option name="times" value="1" />
+              <option name="last" value="1581154789502" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -407,6 +407,14 @@
             <ActionSummary>
               <option name="last" value="1581068407177" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="SynchronizeCurrentFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581155538475" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +485,8 @@
         <entry key="com.intellij.ide.browsers.actions.OpenFileInDefaultBrowserAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581019605527" />
-              <option name="times" value="3" />
+              <option name="last" value="1581155545654" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
