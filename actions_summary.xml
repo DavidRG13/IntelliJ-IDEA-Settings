@@ -5,8 +5,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1581018785130" />
-              <option name="times" value="1" />
+              <option name="last" value="1581157161235" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +69,8 @@
         <entry key="CloseProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581095849179" />
-              <option name="times" value="2" />
+              <option name="last" value="1581157178269" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,8 +357,8 @@
         <entry key="ImportProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581156958776" />
-              <option name="times" value="1" />
+              <option name="last" value="1581157191522" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -466,6 +466,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="WelcomeScreen.CreateNewProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581157118418" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="WelcomeScreen.OpenProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581157124797" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
@@ -485,8 +501,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581153049387" />
-              <option name="times" value="3" />
+              <option name="last" value="1581157185483" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -495,6 +511,14 @@
             <ActionSummary>
               <option name="last" value="1581155545654" />
               <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.notification.NotificationAction$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581157001261" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
