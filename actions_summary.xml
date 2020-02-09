@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1581157271720" />
-              <option name="times" value="12" />
+              <option name="last" value="1581262920298" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -574,6 +574,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581003100785" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.UpdateProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581263152841" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
