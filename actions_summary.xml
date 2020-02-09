@@ -149,8 +149,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252762295" />
-              <option name="times" value="81" />
+              <option name="last" value="1581254641365" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,8 +277,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252623380" />
-              <option name="times" value="72" />
+              <option name="last" value="1581254200017" />
+              <option name="times" value="73" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,16 +349,16 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581157497998" />
-              <option name="times" value="7" />
+              <option name="last" value="1581254214772" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252355634" />
-              <option name="times" value="13" />
+              <option name="last" value="1581254824657" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,16 +621,16 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581158322462" />
-              <option name="times" value="8" />
+              <option name="last" value="1581254190758" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.browsers.actions.OpenFileInDefaultBrowserAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581155545654" />
-              <option name="times" value="6" />
+              <option name="last" value="1581254697444" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252371274" />
-              <option name="times" value="10" />
+              <option name="last" value="1581254843299" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
