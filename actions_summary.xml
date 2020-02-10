@@ -405,8 +405,8 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581006918079" />
-              <option name="times" value="1" />
+              <option name="last" value="1581334431302" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -727,6 +727,22 @@
             <ActionSummary>
               <option name="last" value="1581327002494" />
               <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.vcs.log.ui.filter.BranchFilterPopupComponent$MyBranchPopupBuilder$BranchFilterAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581334440393" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.vcs.log.ui.filter.FilterPopupComponent$AllAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581334914036" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
