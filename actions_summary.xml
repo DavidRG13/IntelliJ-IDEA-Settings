@@ -501,8 +501,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581326887285" />
-              <option name="times" value="7" />
+              <option name="last" value="1581356613629" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -663,6 +663,14 @@
             <ActionSummary>
               <option name="last" value="1581354418851" />
               <option name="times" value="11" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581356614146" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
