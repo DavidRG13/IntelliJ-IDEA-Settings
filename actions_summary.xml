@@ -93,8 +93,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581427461264" />
-              <option name="times" value="28" />
+              <option name="last" value="1581513540178" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504585450" />
-              <option name="times" value="257" />
+              <option name="last" value="1581513560700" />
+              <option name="times" value="261" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581432745720" />
-              <option name="times" value="64" />
+              <option name="last" value="1581513541843" />
+              <option name="times" value="65" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorLineEndWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581427464784" />
-              <option name="times" value="9" />
+              <option name="last" value="1581513543384" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -325,8 +325,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581427464200" />
-              <option name="times" value="147" />
+              <option name="last" value="1581513543002" />
+              <option name="times" value="154" />
             </ActionSummary>
           </value>
         </entry>
@@ -394,6 +394,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="FindUsages">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581513491492" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Forward">
           <value>
             <ActionSummary>
@@ -429,8 +437,8 @@
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581427472253" />
-              <option name="times" value="25" />
+              <option name="last" value="1581513570721" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -567,6 +575,14 @@
             <ActionSummary>
               <option name="last" value="1581332488287" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="SafeDelete">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581513519310" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
