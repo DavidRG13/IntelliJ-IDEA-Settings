@@ -37,8 +37,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252761776" />
-              <option name="times" value="3" />
+              <option name="last" value="1581504585112" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -130,6 +130,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Console.Jdbc.Execute">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581504641948" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CopyElement">
           <value>
             <ActionSummary>
@@ -149,16 +157,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581435251218" />
-              <option name="times" value="256" />
+              <option name="last" value="1581504585450" />
+              <option name="times" value="257" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581432749265" />
-              <option name="times" value="101" />
+              <option name="last" value="1581504637167" />
+              <option name="times" value="104" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +197,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581427359128" />
-              <option name="times" value="56" />
+              <option name="last" value="1581504619661" />
+              <option name="times" value="60" />
             </ActionSummary>
           </value>
         </entry>
@@ -293,8 +301,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581434691705" />
-              <option name="times" value="115" />
+              <option name="last" value="1581504638955" />
+              <option name="times" value="116" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +357,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581413905791" />
-              <option name="times" value="16" />
+              <option name="last" value="1581504620258" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +549,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581432925909" />
-              <option name="times" value="16" />
+              <option name="last" value="1581504581694" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
