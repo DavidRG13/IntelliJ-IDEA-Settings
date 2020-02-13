@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581620072698" />
-              <option name="times" value="351" />
+              <option name="last" value="1581621812835" />
+              <option name="times" value="353" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1581616439500" />
-              <option name="times" value="19" />
+              <option name="last" value="1581621756947" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +421,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581610909759" />
-              <option name="times" value="36" />
+              <option name="last" value="1581621776114" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581619312159" />
-              <option name="times" value="7" />
+              <option name="last" value="1581621758049" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -613,8 +613,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581620156239" />
-              <option name="times" value="81" />
+              <option name="last" value="1581621735492" />
+              <option name="times" value="84" />
             </ActionSummary>
           </value>
         </entry>
@@ -917,8 +917,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581619318189" />
-              <option name="times" value="34" />
+              <option name="last" value="1581621819720" />
+              <option name="times" value="37" />
             </ActionSummary>
           </value>
         </entry>
@@ -973,16 +973,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581619374340" />
-              <option name="times" value="76" />
+              <option name="last" value="1581621727208" />
+              <option name="times" value="77" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1581619374697" />
-              <option name="times" value="14" />
+              <option name="last" value="1581621729960" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
