@@ -501,8 +501,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581606277378" />
-              <option name="times" value="44" />
+              <option name="last" value="1581614676774" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
@@ -917,8 +917,8 @@
         <entry key="com.intellij.openapi.vcs.ex.LocalLineStatusTracker$LocalLineStatusMarkerRenderer$RollbackLineStatusRangeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581590297467" />
-              <option name="times" value="12" />
+              <option name="last" value="1581614407297" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
