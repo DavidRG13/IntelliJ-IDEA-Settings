@@ -93,8 +93,8 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581515001114" />
-              <option name="times" value="11" />
+              <option name="last" value="1581586152009" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="Console.Jdbc.Execute">
           <value>
             <ActionSummary>
-              <option name="last" value="1581534107692" />
-              <option name="times" value="58" />
+              <option name="last" value="1581585949621" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581532468609" />
-              <option name="times" value="110" />
+              <option name="last" value="1581585946731" />
+              <option name="times" value="111" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581532468147" />
-              <option name="times" value="63" />
+              <option name="last" value="1581585946325" />
+              <option name="times" value="69" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +597,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581534128635" />
-              <option name="times" value="37" />
+              <option name="last" value="1581585928965" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
