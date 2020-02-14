@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581678299225" />
-              <option name="times" value="397" />
+              <option name="last" value="1581689897158" />
+              <option name="times" value="398" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581678397906" />
-              <option name="times" value="29" />
+              <option name="last" value="1581689675621" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -1029,8 +1029,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672419964" />
-              <option name="times" value="2" />
+              <option name="last" value="1581689869846" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
