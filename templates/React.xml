@@ -1,5 +1,5 @@
 <templateSet group="React">
-  <template name="sout" value="console.log(&quot;$1$&quot;, $1$)$END$" toReformat="false" toShortenFQNames="true">
+  <template name="sout" value="console.log(&quot;$1$&quot;, $1$)$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
