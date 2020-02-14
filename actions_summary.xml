@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673742773" />
-              <option name="times" value="378" />
+              <option name="last" value="1581675421257" />
+              <option name="times" value="382" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673654990" />
-              <option name="times" value="226" />
+              <option name="last" value="1581675424369" />
+              <option name="times" value="235" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673615459" />
-              <option name="times" value="150" />
+              <option name="last" value="1581675073974" />
+              <option name="times" value="154" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorIndentSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673737139" />
-              <option name="times" value="1" />
+              <option name="last" value="1581675144532" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -309,8 +309,8 @@
         <entry key="EditorLineEndWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581607148075" />
-              <option name="times" value="12" />
+              <option name="last" value="1581675078946" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673658626" />
-              <option name="times" value="168" />
+              <option name="last" value="1581675433022" />
+              <option name="times" value="175" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +381,8 @@
         <entry key="EditorTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673628633" />
-              <option name="times" value="18" />
+              <option name="last" value="1581675085619" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -405,8 +405,8 @@
         <entry key="EditorUpWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581159169150" />
-              <option name="times" value="1" />
+              <option name="last" value="1581675082323" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673789617" />
-              <option name="times" value="92" />
+              <option name="last" value="1581675117600" />
+              <option name="times" value="100" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,8 +901,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672425184" />
-              <option name="times" value="18" />
+              <option name="last" value="1581675113554" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -981,16 +981,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672929151" />
-              <option name="times" value="81" />
+              <option name="last" value="1581675121977" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672930670" />
-              <option name="times" value="20" />
+              <option name="last" value="1581675009694" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
