@@ -85,8 +85,8 @@
         <entry key="ChangesView.Shelve">
           <value>
             <ActionSummary>
-              <option name="last" value="1581938052106" />
-              <option name="times" value="3" />
+              <option name="last" value="1581951195789" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,8 +493,8 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581334431302" />
-              <option name="times" value="2" />
+              <option name="last" value="1581951057289" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -685,8 +685,8 @@
         <entry key="ShelveChanges.UnshelveWithDialog">
           <value>
             <ActionSummary>
-              <option name="last" value="1581938682981" />
-              <option name="times" value="3" />
+              <option name="last" value="1581951233528" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -1069,8 +1069,8 @@
         <entry key="com.intellij.vcs.log.ui.filter.FilterPopupComponent$AllAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581938802072" />
-              <option name="times" value="4" />
+              <option name="last" value="1581951068230" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1093,8 +1093,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$GitNewBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581617264100" />
-              <option name="times" value="1" />
+              <option name="last" value="1581951222531" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -1103,6 +1103,14 @@
             <ActionSummary>
               <option name="last" value="1581938664530" />
               <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581951219998" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
