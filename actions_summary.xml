@@ -437,8 +437,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581947708748" />
-              <option name="times" value="46" />
+              <option name="last" value="1582011396275" />
+              <option name="times" value="47" />
             </ActionSummary>
           </value>
         </entry>
@@ -917,8 +917,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581502441959" />
-              <option name="times" value="2" />
+              <option name="last" value="1582011403862" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
