@@ -93,16 +93,16 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582012212107" />
-              <option name="times" value="19" />
+              <option name="last" value="1582018304434" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581955343820" />
-              <option name="times" value="36" />
+              <option name="last" value="1582017851388" />
+              <option name="times" value="37" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582015694521" />
-              <option name="times" value="535" />
+              <option name="last" value="1582017875217" />
+              <option name="times" value="536" />
             </ActionSummary>
           </value>
         </entry>
@@ -485,8 +485,8 @@
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1581940767695" />
-              <option name="times" value="33" />
+              <option name="last" value="1582017884364" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
