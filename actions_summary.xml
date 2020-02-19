@@ -101,8 +101,8 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582102470884" />
-              <option name="times" value="22" />
+              <option name="last" value="1582111962847" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +501,8 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581951057289" />
-              <option name="times" value="3" />
+              <option name="last" value="1582111990602" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -1133,8 +1133,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$DeleteAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581951219998" />
-              <option name="times" value="1" />
+              <option name="last" value="1582112008132" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
