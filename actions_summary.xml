@@ -485,8 +485,8 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698459821" />
-              <option name="times" value="2" />
+              <option name="last" value="1582216510139" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +557,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582031757570" />
-              <option name="times" value="74" />
+              <option name="last" value="1582216537988" />
+              <option name="times" value="75" />
             </ActionSummary>
           </value>
         </entry>
@@ -693,8 +693,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1582208385422" />
-              <option name="times" value="177" />
+              <option name="last" value="1582216703890" />
+              <option name="times" value="178" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1582136960865" />
-              <option name="times" value="2" />
+              <option name="last" value="1582216293748" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -845,8 +845,8 @@
         <entry key="Vcs.CopyRevisionNumberAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582210579431" />
-              <option name="times" value="11" />
+              <option name="last" value="1582215642225" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581955379414" />
-              <option name="times" value="4" />
+              <option name="last" value="1582215629920" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -1005,16 +1005,16 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582189729398" />
-              <option name="times" value="16" />
+              <option name="last" value="1582215760608" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ide.actions.Switcher$SwitcherPanel$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582023002416" />
-              <option name="times" value="6" />
+              <option name="last" value="1582216706172" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,8 +1117,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582208386469" />
-              <option name="times" value="159" />
+              <option name="last" value="1582216704699" />
+              <option name="times" value="160" />
             </ActionSummary>
           </value>
         </entry>
@@ -1191,6 +1191,14 @@
             <ActionSummary>
               <option name="last" value="1582112008132" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$MergeAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582215627167" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
