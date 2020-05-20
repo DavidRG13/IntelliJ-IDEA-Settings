@@ -5,6 +5,7 @@
       <mapping pattern="perf" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern=".environments.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="myscript" type="PLAIN_TEXT" />
       <mapping pattern="post_release" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
