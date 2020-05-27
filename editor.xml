@@ -5,4 +5,15 @@
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <settingsMapElement>
+      <JAVA.JavaLens>
+        <JavaLensSettings>
+          <option name="showImplementations" value="true" />
+          <option name="showUsages" value="true" />
+        </JavaLensSettings>
+      </JAVA.JavaLens>
+    </settingsMapElement>
+  </component>
 </application>
