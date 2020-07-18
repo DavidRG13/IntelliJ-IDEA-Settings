@@ -14,6 +14,7 @@
       <mapping pattern="buildtest" type="PLAIN_TEXT" />
       <mapping pattern="ssh" type="PLAIN_TEXT" />
       <mapping pattern="releaseFinish" type="PLAIN_TEXT" />
+      <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
