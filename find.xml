@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '.../app/holidays'" />
     <option name="defaultScopeName" value="Directory '.../app/holidays'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../app/holidays'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
