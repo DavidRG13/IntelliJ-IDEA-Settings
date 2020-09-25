@@ -28,9 +28,9 @@
     <mask>*.styl</mask>
     <mask>*.coffee</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>!*.java</mask>
     <mask>*.jsx</mask>
+    <mask>*.java</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
