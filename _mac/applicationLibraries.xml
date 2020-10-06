@@ -5,12 +5,16 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="play-1.5.3">
+    <library name="framework">
       <CLASSES>
-        <root url="jar://$USER_HOME$/play-1.5.3/framework/play-1.5.3.jar!/" />
+        <root url="file://$USER_HOME$/play-1.5.3/framework" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file://$USER_HOME$/play-1.5.3/framework/src" />
+        <root url="file://$USER_HOME$/play-1.5.3/framework/test-src" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/play-1.5.3/framework" recursive="false" />
     </library>
     <library name="Python 3.8 interpreter library">
       <CLASSES>
