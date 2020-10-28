@@ -119,6 +119,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
+              <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cql">
           <value>
             <plugin>
@@ -545,7 +554,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.java" />
-              <option name="myPluginName" value="Java" />
+              <option name="myPluginName" value="com.intellij.java" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1112,7 +1121,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="org.intellij.scala" />
-              <option name="myPluginName" value="Scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -1161,7 +1170,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="org.intellij.scala" />
-              <option name="myPluginName" value="Scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -1258,7 +1267,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="org.intellij.scala" />
-              <option name="myPluginName" value="Scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -1798,6 +1807,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="lombok.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
+              <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="maven.config">
           <value>
             <plugin>
@@ -1820,7 +1838,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="org.intellij.scala" />
-              <option name="myPluginName" value="Scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -2009,7 +2027,7 @@
                   </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
                     <value>
-                      <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
@@ -2044,7 +2062,7 @@
                   </entry>
                   <entry key="Play2FrameworkRunConfigurations">
                     <value>
-                      <FeaturePluginData displayName="Play 2 App" pluginName="Scala" pluginId="org.intellij.scala" />
+                      <FeaturePluginData displayName="Play 2 App" pluginName="org.intellij.scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                   <entry key="PyBehaveRunConfigurationType">
