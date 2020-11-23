@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Groovy/Control flow/Split Else If" />
+    <ignoreAction name="JavaScript/Declaration/Split declaration and initialization" />
   </component>
 </application>
