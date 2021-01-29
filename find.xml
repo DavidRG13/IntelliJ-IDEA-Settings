@@ -32,5 +32,6 @@
     <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>!routes</mask>
   </component>
 </application>
