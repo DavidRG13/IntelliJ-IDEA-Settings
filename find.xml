@@ -18,11 +18,9 @@
     <mask>*.css</mask>
     <mask>!*.tsx</mask>
     <mask>!*.html</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.micro.html</mask>
     <mask>*.styl</mask>
-    <mask>*.coffee</mask>
     <mask>*.jsx</mask>
     <mask>!messages</mask>
     <mask>*.json</mask>
@@ -33,5 +31,7 @@
     <mask>*.sql</mask>
     <mask>!routes</mask>
     <mask>*.java</mask>
+    <mask>*.coffee</mask>
+    <mask>*.html</mask>
   </component>
 </application>
