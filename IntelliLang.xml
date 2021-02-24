@@ -324,5 +324,9 @@
       <place><![CDATA[xmlAttribute().withLocalName("key").withParent(xmlTag().withNamespace(string().equalTo("http://www.springframework.org/schema/cache")))]]></place>
       <place><![CDATA[xmlAttribute().withLocalName("unless").withParent(xmlTag().withNamespace(string().equalTo("http://www.springframework.org/schema/cache")))]]></place>
     </injection>
+    <injection language="RegExp" injector-id="xml">
+      <display-name>suppress/@files</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("files")).withParent(xmlTag().withLocalName(string().equalTo("suppress")).withNamespace(string().equalTo("https://checkstyle.org/dtds/suppressions_1_2.dtd")))]]></place>
+    </injection>
   </component>
 </application>
