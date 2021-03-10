@@ -27,7 +27,6 @@
     <mask>!messages</mask>
     <mask>*.json</mask>
     <mask>!*.java</mask>
-    <mask>*.tsx</mask>
     <mask>*.properties</mask>
     <mask>*.conf</mask>
     <mask>*.sql</mask>
@@ -35,5 +34,6 @@
     <mask>*.coffee</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
