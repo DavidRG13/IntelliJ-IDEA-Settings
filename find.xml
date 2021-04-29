@@ -26,12 +26,12 @@
     <mask>*.json</mask>
     <mask>*.properties</mask>
     <mask>*.conf</mask>
-    <mask>*.sql</mask>
     <mask>!routes</mask>
     <mask>*.coffee</mask>
     <mask>*.html</mask>
     <mask>!*.java</mask>
     <mask>*.java</mask>
     <mask>*.tsx</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
