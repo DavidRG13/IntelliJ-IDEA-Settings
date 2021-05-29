@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -32,10 +33,10 @@
     <mask>*.conf</mask>
     <mask>!routes</mask>
     <mask>*.html</mask>
-    <mask>*.tsx</mask>
     <mask>*.sql</mask>
     <mask>!*.java</mask>
     <mask>*.coffee</mask>
     <mask>*.java</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
