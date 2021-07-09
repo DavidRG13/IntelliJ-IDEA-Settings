@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jsp</mask>
+    <option name="FILE_MASK" value="messages" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.groovy</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*.micro.html</mask>
     <mask>!*.java</mask>
+    <mask>messages</mask>
   </component>
 </application>
