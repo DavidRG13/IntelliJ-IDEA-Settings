@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.mxml</mask>
     <mask>*.groovy</mask>
     <mask>*.yml</mask>
@@ -25,7 +26,6 @@
     <mask>*.conf</mask>
     <mask>!routes</mask>
     <mask>*.html</mask>
-    <mask>*.sql</mask>
     <mask>*.coffee</mask>
     <mask>*.tsx</mask>
     <mask>*.java</mask>
@@ -33,5 +33,6 @@
     <mask>messages</mask>
     <mask>*.php</mask>
     <mask>!*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
