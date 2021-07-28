@@ -31,7 +31,7 @@
     <mask>*.micro.html</mask>
     <mask>messages</mask>
     <mask>*.php</mask>
-    <mask>!*.java</mask>
     <mask>*.sql</mask>
+    <mask>!*.java</mask>
   </component>
 </application>
