@@ -26,12 +26,12 @@
     <mask>!routes</mask>
     <mask>*.html</mask>
     <mask>*.coffee</mask>
-    <mask>*.tsx</mask>
     <mask>*.micro.html</mask>
     <mask>messages</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
     <mask>!*.java</mask>
     <mask>*.java</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
