@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="!*.java" />
     <mask>*.groovy</mask>
     <mask>*.yml</mask>
     <mask>*.scala</mask>
@@ -13,24 +13,25 @@
     <mask>!*.css</mask>
     <mask>!*.patch</mask>
     <mask>*.ts</mask>
-    <mask>*.css</mask>
     <mask>!*.tsx</mask>
     <mask>!*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
     <mask>!messages</mask>
     <mask>*.json</mask>
-    <mask>*.properties</mask>
     <mask>*.conf</mask>
     <mask>!routes</mask>
-    <mask>*.html</mask>
     <mask>*.micro.html</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
     <mask>*.coffee</mask>
     <mask>*.tsx</mask>
     <mask>messages</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>!*.java</mask>
   </component>
