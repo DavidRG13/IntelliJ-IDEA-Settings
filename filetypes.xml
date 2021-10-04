@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="7_mapping" type="AUTO_DETECTED" />
-      <mapping ext="graphqls" type="GraphQL" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -41,6 +40,8 @@
       <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
       <removed_mapping pattern="composer.lock" approved="true" type="JSON" />
       <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
+      <mapping ext="gql" type="GraphQL" />
+      <mapping ext="graphqls" type="GraphQL" />
     </extensionMap>
   </component>
 </application>
