@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.groovy</mask>
     <mask>*.yml</mask>
     <mask>*.scala</mask>
@@ -14,7 +13,6 @@
     <mask>!*.css</mask>
     <mask>!*.patch</mask>
     <mask>*.ts</mask>
-    <mask>!*.tsx</mask>
     <mask>!*.html</mask>
     <mask>*.styl</mask>
     <mask>*.jsx</mask>
@@ -24,7 +22,6 @@
     <mask>!routes</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
-    <mask>*.coffee</mask>
     <mask>messages</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -35,5 +32,7 @@
     <mask>*.micro.html</mask>
     <mask>!*.java</mask>
     <mask>*.tsx</mask>
+    <mask>!*.tsx</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
