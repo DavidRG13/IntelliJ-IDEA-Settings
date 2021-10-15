@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.groovy</mask>
     <mask>*.yml</mask>
     <mask>*.scala</mask>
@@ -20,7 +23,6 @@
     <mask>*.conf</mask>
     <mask>!routes</mask>
     <mask>*.php</mask>
-    <mask>*.sql</mask>
     <mask>messages</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -33,5 +35,6 @@
     <mask>*.tsx</mask>
     <mask>!*.tsx</mask>
     <mask>*.coffee</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
