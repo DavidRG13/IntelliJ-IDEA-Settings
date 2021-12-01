@@ -274,9 +274,13 @@
           <option name="url" value="git@github.com:DriverExchange/time-and-attendance-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:DavidRG13/solidity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/dx" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
