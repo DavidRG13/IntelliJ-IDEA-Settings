@@ -30,8 +30,8 @@
     <mask>*.coffee</mask>
     <mask>*.test.tsx</mask>
     <mask>*.tsx</mask>
-    <mask>*.sql</mask>
     <mask>!*.java</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
