@@ -28,10 +28,10 @@
     <mask>*.micro.html</mask>
     <mask>*.coffee</mask>
     <mask>*.test.tsx</mask>
-    <mask>!*.java</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>!*.tsx</mask>
     <mask>*.tsx</mask>
+    <mask>!*.java</mask>
   </component>
 </application>
