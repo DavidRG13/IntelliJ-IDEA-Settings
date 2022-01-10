@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.java" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.yml</mask>
     <mask>*.scala</mask>
     <mask>*.js</mask>
@@ -35,12 +35,12 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.micro.html</mask>
-    <mask>*.coffee</mask>
     <mask>*.test.tsx</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>!*.tsx</mask>
     <mask>*.tsx</mask>
     <mask>!*.java</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
