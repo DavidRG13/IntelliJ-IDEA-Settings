@@ -36,9 +36,9 @@
     <mask>*.java</mask>
     <mask>!*.tsx</mask>
     <mask>*.tsx</mask>
-    <mask>*.coffee</mask>
     <mask>*.micro.html</mask>
     <mask>*.html</mask>
+    <mask>*.coffee</mask>
     <mask>!*.java</mask>
   </component>
 </application>
