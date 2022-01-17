@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="messages" />
     <mask>*.yml</mask>
     <mask>*.scala</mask>
     <mask>*.js</mask>
@@ -20,7 +21,6 @@
     <mask>*.conf</mask>
     <mask>!routes</mask>
     <mask>*.php</mask>
-    <mask>messages</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
@@ -35,5 +35,6 @@
     <mask>*.tsx</mask>
     <mask>!*.java</mask>
     <mask>*.coffee</mask>
+    <mask>messages</mask>
   </component>
 </application>
