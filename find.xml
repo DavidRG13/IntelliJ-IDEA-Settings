@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.yml</mask>
     <mask>*.scala</mask>
     <mask>*.js</mask>
@@ -30,10 +31,10 @@
     <mask>*.micro.html</mask>
     <mask>*.html</mask>
     <mask>*.styl</mask>
-    <mask>*.tsx</mask>
     <mask>!*.java</mask>
     <mask>*.coffee</mask>
     <mask>messages</mask>
     <mask>*.java</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
