@@ -38,8 +38,8 @@
     <mask>*.coffee</mask>
     <mask>messages</mask>
     <mask>*.java</mask>
-    <mask>*.tsx</mask>
     <mask>*.test.tsx</mask>
     <mask>!*.java</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
