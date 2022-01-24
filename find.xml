@@ -33,7 +33,7 @@
     <mask>*.java</mask>
     <mask>*.test.tsx</mask>
     <mask>!*.java</mask>
-    <mask>*.tsx</mask>
     <mask>*.styl</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
