@@ -28,12 +28,12 @@
     <mask>!*.tsx</mask>
     <mask>*.micro.html</mask>
     <mask>*.html</mask>
-    <mask>*.styl</mask>
     <mask>*.coffee</mask>
     <mask>messages</mask>
     <mask>*.java</mask>
     <mask>*.test.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>!*.java</mask>
+    <mask>*.tsx</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
