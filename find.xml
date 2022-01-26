@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.yml</mask>
     <mask>*.scala</mask>
     <mask>*.js</mask>
@@ -26,12 +27,12 @@
     <mask>!*.tsx</mask>
     <mask>*.micro.html</mask>
     <mask>*.html</mask>
-    <mask>*.coffee</mask>
     <mask>messages</mask>
     <mask>*.java</mask>
     <mask>*.test.tsx</mask>
     <mask>!*.java</mask>
     <mask>*.tsx</mask>
     <mask>*.styl</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
