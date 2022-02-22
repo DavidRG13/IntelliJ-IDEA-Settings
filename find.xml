@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styl" />
     <mask>*.yml</mask>
     <mask>*.scala</mask>
     <mask>*.js</mask>
@@ -28,10 +29,10 @@
     <mask>*.test.tsx</mask>
     <mask>*.coffee</mask>
     <mask>!*.html</mask>
-    <mask>*.styl</mask>
     <mask>*.sql</mask>
-    <mask>!*.java</mask>
     <mask>*.html</mask>
     <mask>*.tsx</mask>
+    <mask>!*.java</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
