@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.scala</mask>
+    <option name="FILE_MASK" value="*.tsx,*.jsx" />
     <mask>*.js</mask>
     <mask>index.tsx</mask>
     <mask>!*.js</mask>
@@ -37,5 +37,6 @@
     <mask>!*.java,!*.sql,!*.txt</mask>
     <mask>messages</mask>
     <mask>*.tsx</mask>
+    <mask>*.tsx,*.jsx</mask>
   </component>
 </application>
